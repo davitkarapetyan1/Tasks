@@ -1,0 +1,9 @@
+итого 188
+drwxrwxr-x  2 davit davit   4096 Dec  1 13:58 .
+drwxr-x--- 29 davit davit   4096 Dec  1 13:44 ..
+-rw-rw-r--  1 davit davit      0 Dec  1 13:58 4228.log
+-rwxrwxr-x  1 davit davit  61936 Dec  1 13:57 interactive-shell
+-rw-rw-r--  1 davit davit   2545 Dec  1 13:57 interactive-shell.cpp
+-rw-rw-r--  1 davit davit 103088 Dec  1 13:57 interactive-shell.o
+-rw-rw-r--  1 davit davit    283 Dec  1 13:45 Makefile
+-rwxrwxr-x  1 davit davit     46 Dec  1 13:54 other.program
